@@ -1,7 +1,7 @@
 # Airbnb-Project-Dashboard-Power-BI-Sample
 ✔️ The Airbnb Dashboard provides insights into listing performance, including occupancy rates, average daily rates, and revenue per available room. It analyzes data by room type, property type, and top/bottom hosts, helping optimize rental strategies.🔥
 ## Data Set Used
-
+- <a href="https://github.com/Muhammad-Ibrahim593/Airbnb-Project-Dashboard-Power-BI-Sample/blob/main/listings.csv">DataSet<a/>
 ## Key point
 ⭐ Occupancy Rates: Entire homes/apts have the highest occupancy rate at 93.15%.
 ⭐ Average Daily Rate: Entire homes/apts generate the highest revenue at $0.95M.
